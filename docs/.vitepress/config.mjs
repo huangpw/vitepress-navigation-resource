@@ -27,7 +27,7 @@ export default defineConfig({
     },
   },
 
-  // 指定 public 目录路径 
+  // 指定public目录路径 
   vite: {
     publicDir: "../public"
   },

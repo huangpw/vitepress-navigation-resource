@@ -1,15 +1,17 @@
 ---
-outline: [2,3,4]
+outline: [2, 3, 4]
 ---
 
 <script setup>
+// import MNavLinks from '../../components/MNavLinks.vue'
+
 import { NAV_DATA } from './data'
 </script>
 <!-- <style src="./index.scss"></style> -->
 
-# CSS组件库
+# CSS阴影库
 
-<Cards v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
+<MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
 <br />
 
