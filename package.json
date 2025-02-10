@@ -1,0 +1,23 @@
+{
+  "name": "vitepress-navigation-resource",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run docs:dev",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.66.1",
+    "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "@mdit-vue/shared": "^2.1.3",
+    "vitepress-plugin-back-to-top": "^1.0.1"
+  }
+}
