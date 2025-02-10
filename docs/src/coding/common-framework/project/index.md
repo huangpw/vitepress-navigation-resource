@@ -9,7 +9,7 @@ import { NAV_DATA } from './data'
 </script>
 <!-- <style src="./index.scss"></style> -->
 
-# CSS项目
+# 项目链接
 
 <Cards v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
