@@ -1,6 +1,6 @@
 export const NAV_DATA = [
     {
-        title: 'Vue官网',
+        title: 'Vue',
         items: [
             {
                 icon: 'https://v2.cn.vuejs.org/images/logo.svg',
@@ -238,6 +238,275 @@ export const NAV_DATA = [
                 link: 'https://github.com/vuejs/vue-eslint-parser',
                 badge: '插件'
             },
+        ]
+    }, {
+        title: 'VueHooks',
+        items: [
+            {
+                icon: 'https://vueuse.nodejs.cn/favicon.svg',
+                title: 'VueUse',
+                desc: 'VueUse是一个功能强大的Vue.js生态系统工具库，它提供了一系列的可重用的Vue组件和函数，帮助开发者更轻松地构建复杂的应用程序。',
+                link: 'https://vueuse.nodejs.cn/',
+                badge: '插件'
+            },{
+                icon: './icons/vuehooksplus.png',
+                title: 'VueHooks Plus',
+                desc: '一个为Vue3设计的高性能、简易钩子库。',
+                link: 'https://inhiblabcore.github.io/docs/hooks/',
+                badge: '插件'
+            },{
+                icon: 'https://ahooks.js.org/logo.svg',
+                title: 'Ahooks-vue',
+                desc: 'ahooks的vue实现。许多hooks是从ahooks移植过来的，但是不完全一致。',
+                link: 'https://dewfall123.github.io/ahooks-vue/zh/',
+                badge: '插件'
+            },{
+                icon: './icons/v3hooks.avif',
+                title: 'V3Hooks',
+                desc: '针对Vue3的实用Hooks集合，V3Hooks也可以说是ahooks的Vue实现，绝大部分Api是保持一致的。',
+                link: 'https://yanzhandong868.gitbook.io/v3hooks',
+                badge: '插件'
+            },{
+                icon: 'https://v2.cn.vuejs.org/images/logo.svg',
+                title: 'vue-use-web',
+                desc: 'Web API实现为Vue.js组合函数。',
+                link: 'https://tarektouati.github.io/vue-use-web/',
+                badge: '插件'
+            },{
+                icon: './icons/vue-demi.png',
+                title: 'Vue Demi Hooks',
+                desc: 'Vue Demi是一个正在开发的实用程序允许你为Vue 2和3编写通用Vue库。',
+                link: 'https://github.com/vueuse/vue-demi/',
+                badge: '插件'
+            },{
+                icon: 'https://pikax.me/vue-composable/assets/logo.svg',
+                title: 'vue-composable',
+                desc: 'Vue组合-api可组合组件。',
+                link: 'https://pikax.me/vue-composable/',
+                badge: '插件'
+            },{
+                icon: './icons/motion.svg',
+                title: '@vueuse/motion',
+                desc: 'Vue Composables 让你的组件动起来。',
+                link: 'https://motion.vueuse.org/',
+                badge: '插件'
+            }
+        ] 
+    }, {
+        title: '图标库',
+        items: [
+            {
+                icon: 'https://vue-icons.com/assets/logo-BYD6h2rC.svg',
+                title: 'Vue Icons Plus',
+                desc: '使用vue-icons-plus轻松地在Vue项目中包含流行的图标，它利用ES6导入，允许您仅包含项目正在使用的图标。',
+                link: 'https://vue-icons.com/icons/',
+                badge: 'Vue'
+            },{
+                icon: 'https://v2.cn.vuejs.org/images/logo.svg',
+                title: 'Vue Unicons',
+                desc: 'Vue Unicons拥有超过1K(1000+)的免费SVG图标，添加到项目并开始使用非常简单。',
+                link: 'https://antonreshetov.github.io/vue-unicons/',
+                badge: 'Vue'
+            },{
+                icon: 'https://v2.cn.vuejs.org/images/logo.svg',
+                title: 'Vue Material Design',
+                desc: '一个Vue单文件组件的集合，用于渲染Material Design Icons，来源于MaterialDesign项目。它还包括一些CSS，有助于使图标的缩放变得更容易。',
+                link: 'https://github.com/robcresswell/vue-material-design-icons',
+                badge: 'Vue'
+            },{
+                icon: './icons/fontawesome.svg',
+                title: 'Font Awesome',
+                desc: 'Font Awesome是互联网的图标库和工具包，被数百万设计师，开发人员和内容创作者使用。',
+                link: 'https://fontawesome.com/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/remixicon.ico',
+                title: 'Remix Icon',
+                desc: '所有的图标都是免费的个人和商业用途。',
+                link: 'https://remixicon.cn/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/lordicon.svg',
+                title: 'Lordicon',
+                desc: 'Lordicon是一个不断增长的图书馆，充满了精心制作的，高质量的静态和动画图标，你不会在其他任何地方找到。',
+                link: 'https://lordicon.com/',
+                badge: 'All'
+            },
+            {
+                icon: 'https://lucide.dev/logo.light.svg',
+                title: 'Lucide',
+                desc: '美丽一致的图标。',
+                link: 'https://lucide.dev/',
+                badge: 'All'
+            },
+            {
+                icon: 'https://hugeicons.com/assets/logo.svg',
+                title: 'Hugeicons Pro',
+                desc: '美丽的图标，精心制作的顶级图标库。',
+                link: 'https://hugeicons.com/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/boxicons.ico',
+                title: 'Boxicons',
+                desc: '高质量的网站图标，为设计师和开发人员精心制作的简单开源图标。',
+                link: 'https://boxicons.com/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/tabler.ico',
+                title: 'Tabler Icons',
+                desc: '免费和开源的图标，视觉上一致，简单美观。',
+                link: 'https://tabler.io/icons',
+                badge: 'All'
+            },
+            {
+                icon: './icons/iconfont.png',
+                title: 'Iconfont',
+                desc: '阿里巴巴矢量图标库。',
+                link: 'https://www.iconfont.cn/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/iconpark.svg',
+                title: 'IconPark',
+                desc: '字节跳动官方图标库。',
+                link: 'https://iconpark.oceanengine.com/home',
+                badge: 'All'
+            },
+            {
+                icon: './icons/easy-icon.png',
+                title: 'Easy-ICON',
+                desc: '高颜值、简单易用的web字体图标库。',
+                link: 'https://gitee.com/sz861128/easy-icon',
+                badge: 'All'
+            },
+            {
+                icon: './icons/favicon.png',
+                title: 'Favicon.io',
+                desc: '唯一的图标生成器，你需要为您的下一个项目。从文本、图像或数百种表情符号中快速生成您的favicon。',
+                link: 'https://favicon.io/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/ionicons.png',
+                title: 'IonIcons',
+                desc: '高级设计的图标，可用于Web、iOS、Android和桌面应用程序。支持SVG。',
+                link: 'https://ionic.io/ionicons',
+                badge: 'All'
+            },
+            {
+                icon: './icons/iconify.png',
+                title: 'Iconify',
+                desc: '一个开源的图标集合和图标工具。',
+                link: 'https://iconify.design/',
+                badge: 'All'
+            },
+            {
+                icon: 'https://icones.js.org/favicon.svg',
+                title: 'Icônes',
+                desc: '基于Iconify的图标浏览器。',
+                link: 'https://icones.js.org/',
+                badge: 'All'
+            },
+            {
+                icon: './icons/unicornicons.svg',
+                title: 'Animated icons',
+                desc: '自带动画的Icon图标库。',
+                link: 'https://unicornicons.com/icons',
+                badge: 'All'
+            },
+            {
+                icon: './icons/simpleicons.svg',
+                title: 'Simple Icons',
+                desc: '包含2457种流行品牌的免费SVG图标库。',
+                link: 'https://simpleicons.org/',
+                badge: 'All'
+            },
+            
+        ]
+    },
+    {
+        title: '插画库',
+        items: [{
+            icon: './icons/illustrations.svg',
+            title: 'unDraw Illustrations',
+            desc: '免费插画。',
+            link: 'https://undraw.co/illustrations',
+            badge: 'All'
+        }, {
+            icon: './icons/useAnimations.png',
+            title: 'useAnimations',
+            desc: '免费动画图标。',
+            link: 'https://useanimations.com/',
+            badge: 'All'
+        }, {
+            icon: './icons/themeisle.png',
+            title: 'Free illustrations',
+            desc: '免费插画。',
+            link: 'https://themeisle.com/illustrations/',
+            badge: 'All'
+        }, {
+            icon: './icons/blush.svg',
+            title: 'Blush',
+            desc: '运用全球艺术家的系列轻松创建和定制精美的插画。',
+            link: 'https://blush.design/zh-CN',
+            badge: 'All'
+        }, {
+            icon: './icons/flowlava.svg',
+            title: 'Flow Lava',
+            desc: '创建一个有吸引力的和独特的项目与未来的字符易于使用的构造器。',
+            link: 'https://flowlava.club/',
+            badge: 'All'
+        }, {
+            icon: './icons/humaaans.webp',
+            title: 'Humaaans',
+            desc: '一个免费可商用的人物场景插画素材神器，超级适合用在UI设计中，整套素材中含有不同的任务姿势、衣服、色彩等。支持Sketch、Figma等格式。',
+            link: 'https://www.humaaans.com/',
+            badge: 'All'
+        }, {
+            icon: './icons/freeillustrations.svg',
+            title: 'Freeillustrations',
+            desc: '免费插图。',
+            link: 'https://freeillustrations.xyz/',
+            badge: 'All'
+        }, {
+            icon: './icons/absurd.png',
+            title: 'absurd illustrations',
+            desc: '一套免费的超现实主义风格插画素材合集，风格独特，寓意暗藏，非常有特色。如果你想来点和别人不一样的东西，可以试试这套插画素材。',
+            link: 'https://absurd.design/',
+            badge: 'All'
+        }, {
+            icon: './icons/outlane.svg',
+            title: 'Outlane',
+            desc: '网站会定期更新各种不同类型的免费插画素材，包括流行的《权游》和《复联4》等主题的插画都有。',
+            link: 'https://outlane.co/topics/freebie/',
+            badge: 'All'
+        }]
+    }, {
+        title: 'Emoji',
+        items: [
+            {
+                icon: 'https://emoji.muan.co/appicon.png',
+                title: 'Emoji searcher',
+                desc: 'emoji表情大全。',
+                link: 'https://emoji.muan.co/',
+                badge: 'All'
+            }, {
+                icon: 'https://www.webfx.com/wp-content/uploads/2021/10/favicon.png',
+                title: 'Emoji Cheat Sheet',
+                desc: '可以在GitHub中使用的emoji表情。',
+                link: 'https://www.webfx.com/tools/emoji-cheat-sheet/',
+                badge: 'All'
+            }, {
+                icon: 'https://gitmoji.dev/static/apple-icon-144x144.png',
+                title: 'gitmoji',
+                desc: '可以在Git中使用的emoji表情。',
+                link: 'https://gitmoji.dev/',
+                badge: 'All'
+            }
         ]
     }
 ];

@@ -30,8 +30,8 @@ module.exports = {
             text: 'Node生态',
             collapsed: false,
             items: [
-                { text: 'Node框架', link: '/coding/common-framework/vue/' },
-                { text: '构建打包', link: '/coding/common-framework/vue/' }
+                { text: 'Node框架', link: '/coding/common-framework/node-frame/' },
+                { text: '构建打包', link: '/coding/common-framework/node-build/' }
 
             ]
         },

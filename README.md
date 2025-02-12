@@ -91,3 +91,5 @@
 # 工具
 
 - VPN魔法
+
+https://notes.fe-mm.com/nav
