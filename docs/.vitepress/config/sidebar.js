@@ -23,7 +23,7 @@ module.exports = {
             text: 'React生态',
             collapsed: false,
             items: [
-                { text: 'React全家桶', link: '/coding/common-framework/vue/' }
+                { text: 'React全家桶', link: '/coding/common-framework/react/' }
             ]
         },
         {
@@ -32,7 +32,7 @@ module.exports = {
             items: [
                 { text: 'Node框架', link: '/coding/common-framework/vue/' },
                 { text: '构建打包', link: '/coding/common-framework/vue/' }
-                
+
             ]
         },
         {
