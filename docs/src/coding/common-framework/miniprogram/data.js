@@ -1,13 +1,26 @@
 export const NAV_DATA = [
   {
-    title: 'CSS阴影',
+    title: '小程序框架',
     items: [
         {
-            id: 1,
-            icon: 'https://s2.loli.net/2025/02/10/SVU2w8oP6AlOCsE.jpg',
-            title: 'Hover.css🔥',
-            desc: '一个CSS3支持的悬停效果的集合，可应用于链接，按钮，徽标，SVG，特色图像等。轻松应用于您自己的元素，修改或仅用于灵感。支持CSS、Sass和Less。',
-            link: 'https://ianlunn.github.io/Hover/',
+            icon: 'https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png',
+            title: '微信小程序文档',
+            desc: '微信小程序官方开发者文档。',
+            link: 'https://developers.weixin.qq.com/miniprogram/dev/framework/',
+            badge: '官网'
+        },
+        {
+            icon: './icons/alipay.svg',
+            title: '支付宝小程序文档',
+            desc: '支付宝小程序官方开发者文档。',
+            link: 'https://opendoc.alipay.com/mini/',
+            badge: '官网'
+        },
+        {
+            icon: './icons/douyin.png',
+            title: '抖音小程序文档',
+            desc: '抖音小程序官方开发者文档。',
+            link: 'https://developer.open-douyin.com/microapp-intro',
             badge: '官网'
         },
     ],

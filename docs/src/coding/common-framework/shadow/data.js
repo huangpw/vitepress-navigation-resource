@@ -1,14 +1,14 @@
 export const NAV_DATA = [
   {
-    title: 'CSS阴影',
+    title: 'CSS阴影库',
     items: [
         {
             id: 1,
-            icon: 'https://s2.loli.net/2025/02/10/SVU2w8oP6AlOCsE.jpg',
-            title: 'Hover.css🔥',
-            desc: '一个CSS3支持的悬停效果的集合，可应用于链接，按钮，徽标，SVG，特色图像等。轻松应用于您自己的元素，修改或仅用于灵感。支持CSS、Sass和Less。',
-            link: 'https://ianlunn.github.io/Hover/',
-            badge: '官网'
+            icon: 'https://img.bossdesign.cn/2022/03/2022031015434445.png',
+            title: 'Shadows Brumm',
+            desc: 'CSS阴影在线生成。',
+            link: 'https://shadows.brumm.af/',
+           // badge: '官网'
         },
     ],
   },
