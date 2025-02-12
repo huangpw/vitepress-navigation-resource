@@ -1,6 +1,6 @@
 export const NAV_DATA = [
   {
-    title: 'CSS阴影',
+    title: '跨平台框架',
     items: [
         {
             id: 1,
