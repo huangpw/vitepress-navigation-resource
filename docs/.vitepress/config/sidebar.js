@@ -39,21 +39,21 @@ module.exports = {
             text: '小程序生态',
             collapsed: false,
             items: [
-                { text: '小程序框架', link: '/coding/common-framework/vue/' }
+                { text: '小程序框架', link: '/coding/common-framework/miniprogram/' }
             ]
         },
         {
             text: '跨平台生态',
             collapsed: false,
             items: [
-                { text: '跨平台框架', link: '/coding/common-framework/vue/' }
+                { text: '跨平台框架', link: '/coding/common-framework/cross-platform/' }
             ]
         },
         {
             text: '图标库',
             collapsed: false,
             items: [
-                { text: '图标库', link: '/coding/common-framework/vue/' }
+                { text: '图标库', link: '/coding/common-framework/icon/' }
             ]
         },
     ],
