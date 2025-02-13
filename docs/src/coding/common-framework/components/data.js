@@ -175,7 +175,6 @@ export const NAV_DATA = [
     title: 'TailwindCSS UI',
     items: [
         {
-            id: 1,
             icon: 'https://s2.loli.net/2025/02/10/5icjSL1qsumTa3D.png',
             title: 'HeadlessUl🔥',
             desc: 'HeadlessUI是一款出色的前端组件库，专为与 Tailwind CSS 集成而设计。一组完全无样式、完全可访问的 UI 组件，可以自由的引入进你的项目，支持Vue和React。',
@@ -183,7 +182,6 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS', 'TailwindCSS']
         },
         {
-            id: 2,
             icon: 'https://s2.loli.net/2025/02/10/6xkg1A2n9rEGOJw.webp',
             title: 'FlyonUI',
             desc: '全新发布的 TailwindCSS 组件库。',
@@ -191,7 +189,6 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS', 'TailwindCSS']
         },
         {
-            id: 3,
             icon: 'https://s2.loli.net/2025/02/10/ml49X6TDSQ1kPVB.jpg',
             title: 'HyperUI',
             desc: 'HyperUI是一个免费开源的Tailwind CSS组件库，提供了大量可以用于构建各种类型网站的组件。',
@@ -199,7 +196,6 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS', 'TailwindCSS']
         },
         {
-            id: 4,
             icon: 'https://s2.loli.net/2025/02/10/XfTVMkbosPqrIBY.jpg',
             title: 'TailblocksUI',
             desc: 'TailblocksUI是60多个简约布局块的集合，包括推荐、统计数据、价格、Hero、页眉、画廊、页脚、功能和电子商务。',
@@ -207,7 +203,6 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS', 'TailwindCSS']
         },
         {
-            id: 5,
             icon: 'https://s2.loli.net/2025/02/10/ngPs1yHomC8JF2W.jpg',
             title: 'MerakiUI',
             desc: 'MerakiUI是一个不断壮大的集合，包含50多个精美的Tailwind CSS组件。',
@@ -215,7 +210,6 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS', 'TailwindCSS']
         },
         {
-            id: 6,
             icon: 'https://s2.loli.net/2025/02/10/gydBflnezwxHORC.jpg',
             title: 'daisyUI',
             desc: 'daisyUI是一个流行的开源Tailwind CSS组件库，拥有超过28k个GitHub星和约900万次npm下载量。',
@@ -223,7 +217,6 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS', 'TailwindCSS']
         },
         {
-            id: 7,
             icon: 'https://s2.loli.net/2025/02/10/l5AGVOnzmWTSK48.jpg',
             title: 'Flowbite',
             desc: 'Flowbite是一个开源组件库，使用Tailwind CSS实用程序类来创建组件。它提供 400 多个组件和交互元素，以及暗黑模式支持和Figma设计系统。',
@@ -235,7 +228,6 @@ export const NAV_DATA = [
     {
         title: 'Hamburger汉堡',
         items: [{
-                id: 1,
                 icon: 'https://s2.loli.net/2025/02/10/LEzvHfslxg8cwXC.png',
                 title: '汉堡菜单生成器',
                 desc: '美味的CSS动画汉堡。',
@@ -246,12 +238,19 @@ export const NAV_DATA = [
     },
     {
         title: 'Loading加载',
-        items: [{
-                id: 1,
+        items: [
+            {
                 icon: 'https://s2.loli.net/2025/02/10/J2FCucPBl6jo7MY.png',
                 title: 'CSS Loaders🔥',
                 desc: '国外的CSS大佬使用纯CSS实现的600个Loading效果！',
                 link: 'https://css-loaders.com',
+                label: ['HTML', 'CSS']
+            },
+            {
+                icon: './icons/three-dots.png',
+                title: 'Three Dots',
+                desc: '一组只使用单个元素的CSS加载动画。',
+                link: 'https://nzbin.github.io/three-dots/',
                 label: ['HTML', 'CSS']
             },
         ]
@@ -259,7 +258,6 @@ export const NAV_DATA = [
     {
         title: 'Video视频',
         items: [{
-                id: 1,
                 icon: 'https://s2.loli.net/2025/02/10/VfmzZeqJ9bR6l4O.jpg',
                 title: 'Plyr🔥',
                 desc: 'Plyr是一个简单，轻量级，可访问和可定制的 HTML5，YT 和 Vimeo 媒体播放器，支持现代浏览器。',

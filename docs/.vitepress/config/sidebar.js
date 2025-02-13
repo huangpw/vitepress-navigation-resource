@@ -5,6 +5,7 @@ module.exports = {
             collapsed: false,
             items: [
                 { text: 'CSS框架', link: '/coding/common-framework/' },
+                { text: 'CSS教程', link: '/coding/common-framework/course/' },
                 { text: 'CSS项目', link: '/coding/common-framework/project/' },
                 { text: 'CSS组件库', link: '/coding/common-framework/components/' },
                 { text: 'CSS动画库', link: '/coding/common-framework/animate/' },

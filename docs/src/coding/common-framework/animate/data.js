@@ -205,6 +205,13 @@ export const NAV_DATA = [
             link: 'http://guowc.github.io/animastore/',
             badge: '官网'
         },
+        {
+            icon: './icons/lottiefiles.png',
+            title: 'LottieFiles',
+            desc: '一个在线的开源动画库，里面有各种有趣且精美的动画。',
+            link: 'https://lottiefiles.com/popular-free-animations',
+            badge: '官网'
+        },
     ],
   },
 ];

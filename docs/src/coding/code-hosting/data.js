@@ -91,5 +91,31 @@ export const NAV_DATA = [
         link: 'https://code.tencent.com',
       },
     ],
-  },
+    },
+    {
+        title: '加速工具',
+        items: [
+            {
+                icon: './icons/github.svg',
+                title: 'GitHub加速下载',
+                desc: 'GitHub加速下载。',
+                link: 'https://github.ur1.fun/',
+                badge: '工具',
+            },
+            {
+                icon: './icons/github.svg',
+                title: 'FastGithub',
+                desc: '快速跳转GitHub镜像网站、镜像克隆下载的猴油脚本。',
+                link: 'https://github.com/RC1844/FastGithub',
+                badge: '工具',
+            },
+            {
+                icon: './icons/github.svg',
+                title: 'GitHub文件下载加速与代理神器',
+                desc: '2025最新可用！GitHub 文件下载加速与代理神器 | Hosts代理服务列表（2月更新）。',
+                link: 'https://fcp7.com/github-hosts-list.html',
+                badge: '工具',
+            },
+        ]
+    }
 ];

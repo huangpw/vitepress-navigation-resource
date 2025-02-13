@@ -14,8 +14,16 @@ module.exports = [
     { text: 'AI', link: '/ai/' },
     { text: '剪辑', link: '/montage/' },
     { text: '办公', link: '/office/' },
+    { text: '设计', link: '/ui/' },
     { text: '娱乐', link: '/recreation/' },
     { text: '科普', link: '/popular-science/' },
     { text: '图库', link: '/gallery/' },
-    { text: '常用', link: '/gallery/' },
+    {
+        text: '常用',
+        items: [
+            { text: '在线工具', link: '/used/tools/' },
+            { text: 'VPN魔法', link: '/used/vpn/' },
+            { text: '友链导航', link: '/used/friend-link/' },
+        ]
+    },
 ]

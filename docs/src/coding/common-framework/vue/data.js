@@ -10,6 +10,13 @@ export const NAV_DATA = [
                 badge: '官网'
             },
             {
+                icon: 'https://cli.vuejs.org/favicon.png',
+                title: 'Vue CLI',
+                desc: 'Vue.js开发的标准工具。',
+                link: 'https://cli.vuejs.org/zh/',
+                badge: '官网'
+            },
+            {
                 icon: 'https://v2.cn.vuejs.org/images/logo.svg',
                 title: 'Vue3官网',
                 desc: '渐进式JavaScript框架。',
@@ -91,6 +98,13 @@ export const NAV_DATA = [
                 title: 'Vitest',
                 desc: '下一代测试框架。一个原生支持Vite的测试框架。非常快速！',
                 link: 'https://cn.vitest.dev',
+                badge: '官网'
+            },
+            {
+                icon: './icons/vue-loader.png',
+                title: 'Vue Loader',
+                desc: 'vue-loader是webpack的一个loader，允许你用单文件组件(sfc)的格式创建Vue组件并打包。',
+                link: 'https://vue-loader.vuejs.org/zh/',
                 badge: '官网'
             },
             {
@@ -204,6 +218,13 @@ export const NAV_DATA = [
                 badge: '语法糖'
             },
             {
+                icon: './icons/webpack.png',
+                title: 'Webpack',
+                desc: 'Webpack是一个用于现代JavaScript应用程序的静态模块打包工具。',
+                link: 'https://www.webpackjs.com/',
+                badge: '官网'
+            },
+            {
                 icon: 'https://static.vue-js.com/6280b990-ff19-11ea-85f6-6fac77c0c9b3.png',
                 title: 'Vue3 One Piece',
                 desc: '更快，更轻，易维护，更多的原生支持。',
@@ -222,6 +243,13 @@ export const NAV_DATA = [
                 title: 'Awesome Vue',
                 desc: '收录了很多与Vue相关的一切优质内容。包括面试题，课程，开源项目，UI库，第三方包，工具集，开发者工具等。',
                 link: 'https://github.com/vuejs/awesome-vue/',
+                badge: '资源'
+            },
+            {
+                icon: 'https://vitepress.dev/vitepress-logo-large.webp',
+                title: 'VitePress(非官方)',
+                desc: 'VitePress快速上手中文教程。',
+                link: 'https://vitepress.yiov.top/',
                 badge: '资源'
             },
             {

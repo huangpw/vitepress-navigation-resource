@@ -31,7 +31,7 @@ export const NAV_DATA = [
       {
         icon: './icons/getwaves.png',
         title: 'CSS Waves',
-        desc: '通过一些自定义生成简单的波纹。',
+        desc: '通过一些自定义生成简单的波纹。一款在线帮我们生成漂亮波浪线的网站。',
         link: 'https://getwaves.io/',
         badge: '官网'
       },
@@ -69,5 +69,17 @@ export const NAV_DATA = [
         badge: '官网'
       }
     ]
-  }
+    },
+    {
+        title: 'CSS组件',
+        items: [
+          {
+            icon: './icons/cssbuttongenerator.png',
+            title: 'CSS Button Generator',
+            desc: 'CSS cli-path 特性允许我们构建复杂的形状。',
+            link: 'https://www.cssbuttongenerator.com/',
+            badge: '官网'
+          },
+        ]
+      }
 ];
