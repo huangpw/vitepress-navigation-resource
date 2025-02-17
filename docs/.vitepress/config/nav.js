@@ -9,6 +9,7 @@ module.exports = [
             { text: '源码资源', link: '/coding/code-resource/' },
             { text: '求职兼职', link: '/coding/apply-job/' },
             { text: '前端导航', link: '/coding/frontend-nav/' },
+            { text: '在线工具', link: '/coding/tools/' }
         ]
     },
     { text: 'AI', link: '/ai/' },

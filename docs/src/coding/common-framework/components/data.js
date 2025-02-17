@@ -162,11 +162,17 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS']
         },
         {
-            id: 21,
             icon: 'https://s2.loli.net/2025/02/10/fcx2MetoT1LE45R.jpg',
             title: 'CSS Layout',
             desc: '纯CSS实现的一套页面元素、组件集，一个流行的CSS布局和模式的集合。',
             link: 'https://phuoc.ng/collection/css-layout/',
+            label: ['HTML', 'CSS']
+        },
+        {
+            icon: './icons/css.png',
+            title: '零代码',
+            desc: '精美CSS样式库。',
+            link: 'https://www.lingdaima.com/css/#/',
             label: ['HTML', 'CSS']
         },
     ],
