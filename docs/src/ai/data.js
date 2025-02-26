@@ -842,8 +842,30 @@ export const NAV_DATA = [
         link: 'https://www.colossyan.com/',
         badge: '国外',
       },
-      
+
     ]
   },
-
+  {
+    title: '导航门户',
+    items: [
+      {
+        icon: './icons/cnschat.png',
+        title: 'AI导航网',
+        desc: '收录优质AI人工智能项目，专业全面的AIGC网站导航。',
+        link: 'https://www.cnschat.com/'
+      },
+      {
+        icon: './icons/tools-haiyong.ico',
+        title: 'AI应用导航',
+        desc: 'AI应用导航，海拥工具。',
+        link: 'https://tools.haiyong.site/ai/'
+      },
+      {
+        icon: './icons/ai-bot.png',
+        title: 'AI工具集',
+        desc: '1000+ AI工具集合，国内外AI工具集导航大全。',
+        link: 'https://ai-bot.cn/'
+      },
+    ]
+  }
 ];

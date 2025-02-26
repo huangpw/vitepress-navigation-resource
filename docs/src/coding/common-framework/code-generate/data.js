@@ -51,9 +51,16 @@ export const NAV_DATA = [
       },
       {
         icon: './icons/haikei.ico',
-        title: 'SVG 生成器',
+        title: 'SVG生成器',
         desc: 'Haikei是一个Web应用程序，可以生成令人惊叹的视觉内容-随时可以与您的设计工具和工作流程一起使用。',
         link: 'https://haikei.app/',
+        badge: '官网'
+      },
+      {
+        icon: './icons/coolbackgrounds.svg',
+        title: 'Coolbackground',
+        desc: '背景图片生成器，制作独一无二属于你的照片，生成的照片不仅可以保存当壁纸使用，还能当幻灯皮、PPT等等。点击页面颜色，自己调节选择配色，好看又独特。',
+        link: 'https://coolbackgrounds.io/',
         badge: '官网'
       }
     ],
@@ -69,17 +76,17 @@ export const NAV_DATA = [
         badge: '官网'
       }
     ]
-    },
-    {
-        title: 'CSS组件',
-        items: [
-          {
-            icon: './icons/cssbuttongenerator.png',
-            title: 'CSS Button Generator',
-            desc: 'CSS cli-path 特性允许我们构建复杂的形状。',
-            link: 'https://www.cssbuttongenerator.com/',
-            badge: '官网'
-          },
-        ]
-      }
+  },
+  {
+    title: 'CSS组件',
+    items: [
+      {
+        icon: './icons/cssbuttongenerator.png',
+        title: 'CSS Button Generator',
+        desc: 'CSS cli-path 特性允许我们构建复杂的形状。',
+        link: 'https://www.cssbuttongenerator.com/',
+        badge: '官网'
+      },
+    ]
+  }
 ];
