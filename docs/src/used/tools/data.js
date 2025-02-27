@@ -31,4 +31,23 @@ export const NAV_DATA = [
       },
     ],
   },
+  {
+    title: '数据格式化',
+    items: [
+      {
+        icon: './icons/jsoncrack.png',
+        title: 'JsonCrack',
+        desc: '一个开源的在线JSON数据可视化编辑器，可以把任意JSON数据转化为树状图。',
+        link: 'https://jsoncrack.com/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/jsongsh.ico',
+        title: 'JSON在线解析格式化',
+        desc: 'JSON在线解析格式化。',
+        link: 'https://www.json.cn/',
+        badge: '官网',
+      },
+    ],
+  },
 ];

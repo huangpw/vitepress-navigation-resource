@@ -72,6 +72,13 @@ export const NAV_DATA = [
         link: 'https://tool.sj520.cn/',
         badge: '官网',
       },
+      {
+        icon: './icons/liumingye.webp',
+        title: '刘明野的工具箱',
+        desc: '提供好用易用的工具。',
+        link: 'https://tool.liumingye.cn/',
+        badge: '官网',
+      },
     ],
   },
   {

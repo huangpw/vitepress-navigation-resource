@@ -16,6 +16,13 @@ export const NAV_DATA = [
         link: 'https://getsharex.com/',
         badge: '官网',
       },
+      {
+        icon: './icons/utools.png',
+        title: 'uTools',
+        desc: '一款纵横Windows/Mac/Linux平台的生产力终极插件工具箱。功能丰富、软件轻量且安全、简洁、无广告的插件，让日常工作、学习得心应手。',
+        link: 'https://u.tools/',
+        badge: '官网',
+      },
     ],
   },
 ];
