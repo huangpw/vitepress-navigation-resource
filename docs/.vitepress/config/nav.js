@@ -23,6 +23,7 @@ module.exports = [
     text: '常用',
     items: [
       { text: '综合学习', link: '/used/study/' },
+      { text: '电脑软件', link: '/used/software/' },
       { text: '在线工具', link: '/used/tools/' },
       { text: 'VPN魔法', link: '/used/vpn/' },
       { text: '友链导航', link: '/used/friend-link/' },

@@ -31,17 +31,4 @@ export const NAV_DATA = [
       },
     ],
   },
-  {
-    title: '电脑软件',
-    items: [
-      {
-        icon: './icons/everything.png',
-        title: 'Everything',
-        desc: '快速搜索电脑文件。',
-        link: 'https://www.voidtools.com/zh-cn/',
-        badge: '官网',
-      },
-
-    ],
-  },
 ];
