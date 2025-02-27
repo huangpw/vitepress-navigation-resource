@@ -170,6 +170,13 @@ export const NAV_DATA = [
         badge: '官网',
       },
       {
+        icon: './icons/lanren-work.svg',
+        title: '懒人办公官网',
+        desc: '一个综合性免费办公工具平台,用户可以免费下载PPT、word和Excel模板。',
+        link: 'https://www.lanren.work/',
+        badge: '官网',
+      },
+      {
         icon: './icons/wordlm.png',
         title: 'Word联盟',
         desc: '一个提供在线学习Word、Excel、PPT、WPS等Office办公软件应用的平台。',
