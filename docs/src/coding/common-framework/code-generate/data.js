@@ -26,6 +26,18 @@ export const NAV_DATA = [
     ],
   },
   {
+    title: 'CSS图片&剪辑',
+    items: [
+      {
+        icon: './icons/clippy.jpg',
+        title: '剪辑路径生成器',
+        desc: 'CSS cli-path 特性允许我们构建复杂的形状。',
+        link: 'https://bennettfeely.com/clippy/',
+        badge: '官网'
+      }
+    ]
+  },
+  {
     title: 'CSS背景&波纹',
     items: [
       {
@@ -66,25 +78,20 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '图片处理',
-    items: [
-      {
-        icon: './icons/clippy.jpg',
-        title: '剪辑路径生成器',
-        desc: 'CSS cli-path 特性允许我们构建复杂的形状。',
-        link: 'https://bennettfeely.com/clippy/',
-        badge: '官网'
-      }
-    ]
-  },
-  {
-    title: 'CSS组件',
+    title: 'CSS组件&片段',
     items: [
       {
         icon: './icons/cssbuttongenerator.png',
         title: 'CSS Button Generator',
         desc: 'CSS cli-path 特性允许我们构建复杂的形状。',
         link: 'https://www.cssbuttongenerator.com/',
+        badge: '官网'
+      },
+      {
+        icon: './icons/cssbuttons.svg',
+        title: 'CSS Buttons',
+        desc: '全网最全按钮案例动效合集。',
+        link: 'https://cssbuttons.io/',
         badge: '官网'
       },
     ]

@@ -3,6 +3,13 @@ export const NAV_DATA = [
     title: '前端导航',
     items: [
       {
+        icon: './icons/thosefree.png',
+        title: '那些免费的砖',
+        desc: '「编程」发现优质的免费商用资源。',
+        link: 'https://www.thosefree.com/',
+        badge: '官网',
+      },
+      {
         icon: './icons/alloyteam.png',
         title: 'AlloyTeam',
         desc: '「编程」比较全的Web前端导航，包括 团队组织 、开发社区 、 前端门户、框架类库 等等网站的导航。',
