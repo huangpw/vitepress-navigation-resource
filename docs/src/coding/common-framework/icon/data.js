@@ -110,6 +110,13 @@ export const NAV_DATA = [
         badge: 'All'
       },
       {
+        icon: './icons/svgl.svg',
+        title: 'SVGL',
+        desc: '免费开源精美的SVG图标徽标库。',
+        link: 'https://svgl.app/',
+        badge: 'All'
+      },
+      {
         icon: './icons/favicon.png',
         title: 'Favicon.io',
         desc: '唯一的图标生成器，你需要为您的下一个项目。从文本、图像或数百种表情符号中快速生成您的favicon。',
