@@ -430,6 +430,27 @@ export const NAV_DATA = [
         link: 'https://www.gitfluence.com/',
         badge: '国外',
       },
+      {
+        icon: './icons/theculturedao.jpg',
+        title: 'Theculturedao',
+        desc: 'AI电影制作人和游戏制作人协会。',
+        link: 'https://www.theculturedao.com/',
+        badge: '国外',
+      },
+      {
+        icon: './icons/ludoai.jpg',
+        title: 'Ludo AI',
+        desc: '快速帮助游戏开发者进行创造过程。',
+        link: 'https://ludo.ai/',
+        badge: '国外',
+      },
+      // {
+      //   icon: './icons/ludoai.jpg',
+      //   title: '',
+      //   desc: '快速帮助游戏开发者进行创造过程。',
+      //   link: 'https://ludo.ai/',
+      //   badge: '国外',
+      // },
     ]
   },
   {
@@ -547,11 +568,6 @@ export const NAV_DATA = [
         link: 'https://github.com/Stability-AI/stablediffusion',
         badge: '国外',
       },
-    ]
-  },
-  {
-    title: '图像工具',
-    items: [
       {
         icon: './icons/logosc.jpg',
         title: '标小智Logo生成',
@@ -561,8 +577,8 @@ export const NAV_DATA = [
       },
       {
         icon: './icons/upscayl.jpg',
-        title: 'Upscayl',
-        desc: '免费开源的AI图片无损放大工具。',
+        title: 'Upscayl图片修复',
+        desc: '免费开源的AI图片无损放大工具，模糊图片秒变超清。',
         link: 'https://upscayl.github.io/',
         badge: '国外',
       },
@@ -582,9 +598,30 @@ export const NAV_DATA = [
       },
       {
         icon: './icons/tencentarc.jpg',
-        title: 'ARC',
+        title: '腾讯Arc Lab',
         desc: '腾讯旗下ARC实验室推出的AI图片处理工具。',
         link: 'https://arc.tencent.com/zh/index',
+        badge: '国内',
+      },
+      {
+        icon: './icons/meituai.png',
+        title: '美图AI开放平台',
+        desc: '美图推出的AI人脸图像处理平台。',
+        link: 'https://ai.meitu.com/index/',
+        badge: '国内',
+      },
+      {
+        icon: './icons/meituyunxiu.png',
+        title: '美图云修',
+        desc: '商业级AI影像处理工具。',
+        link: 'https://yunxiu.meitu.com/home/',
+        badge: '国内',
+      },
+      {
+        icon: './icons/magicstudio.jpg',
+        title: 'MagicStudio',
+        desc: '图片处理必备效率神器，为你的图片提供神奇魔法。',
+        link: 'https://magicstudio.com/zh/',
         badge: '国内',
       },
       {
@@ -609,17 +646,31 @@ export const NAV_DATA = [
         badge: '国外',
       },
       {
-        icon: './icons/magicstudio.jpg',
-        title: 'MagicStudio',
-        desc: '高颜值AI图像处理工具。',
-        link: 'https://magicstudio.com/zh/',
-        badge: '国内',
+        icon: './icons/cgfaces.png',
+        title: 'CG Faces',
+        desc: '免费的AI人像生成图片素材网站。',
+        link: 'https://cgfaces.com/cn',
+        badge: '国外',
       },
       {
         icon: './icons/diffus.jpg',
         title: 'Graviti Diffus',
         desc: '开箱即用的 Stable Diffusion WebUI 在线图像生成服务。',
         link: 'https://www.diffus.me/',
+        badge: '国外',
+      },
+      {
+        icon: './icons/palette.png',
+        title: 'Palette着色',
+        desc: '用AI为黑白照片着色。',
+        link: 'https://palette.fm/',
+        badge: '国外',
+      },
+      {
+        icon: './icons/restorephotos.png',
+        title: 'Restorephoto',
+        desc: '用AI修复旧的人像照片。',
+        link: 'https://www.restorephotos.io/',
         badge: '国外',
       },
       {
@@ -660,7 +711,7 @@ export const NAV_DATA = [
       {
         icon: './icons/hamaapp.jpg',
         title: 'Hama',
-        desc: '在线抹除图片中不想要的物体。',
+        desc: '一键无痕抹除画面内容，在线抹除图片中不想要的物体。',
         link: 'https://www.hama.app/zh',
         badge: '国内',
       },
@@ -669,6 +720,27 @@ export const NAV_DATA = [
         title: 'BigJPG',
         desc: '免费的在线图片无损放大工具。',
         link: 'https://bigjpg.com/',
+        badge: '国内',
+      },
+      {
+        icon: './icons/bgsub.jpg',
+        title: 'BgSub换背景',
+        desc: '消除或替换图像背景的AI工具。',
+        link: 'https://bgsub.cn/',
+        badge: '国内',
+      },
+      {
+        icon: './icons/vectorizer.png',
+        title: 'Vectorizer',
+        desc: '免费使用，位图转矢量图。',
+        link: 'https://vectorizer.ai/',
+        badge: '国外',
+      },
+      {
+        icon: './icons/jpghd.png',
+        title: 'jpgHD',
+        desc: '老照片一键修复，让您的老照片变新照片。',
+        link: 'https://jpghd.com/zh',
         badge: '国内',
       },
     ]
@@ -746,11 +818,6 @@ export const NAV_DATA = [
         link: 'https://www.lalal.ai/zh-hans/',
         badge: '国内',
       },
-    ]
-  },
-  {
-    title: '视频工具',
-    items: [
       {
         icon: './icons/wonderdynamics.jpg',
         title: 'Wonder Studio',
@@ -842,7 +909,18 @@ export const NAV_DATA = [
         link: 'https://www.colossyan.com/',
         badge: '国外',
       },
-
+    ]
+  },
+  {
+    title: '办公辅助',
+    items: [
+      {
+        icon: './icons/wonderdynamics.jpg',
+        title: '',
+        desc: 'AI自动为CG角色制作动画、打光并将其合成到真人场景中。',
+        link: 'https://wonderdynamics.com/',
+        badge: '国外',
+      },
     ]
   },
   {
@@ -850,7 +928,7 @@ export const NAV_DATA = [
     items: [
       {
         icon: './icons/cnschat.png',
-        title: 'AI导航网',
+        title: 'AI智能导航网',
         desc: '收录优质AI人工智能项目，专业全面的AIGC网站导航。',
         link: 'https://www.cnschat.com/'
       },
@@ -863,8 +941,20 @@ export const NAV_DATA = [
       {
         icon: './icons/ai-bot.png',
         title: 'AI工具集',
-        desc: '1000+ AI工具集合，国内外AI工具集导航大全。',
+        desc: '1000+AI工具集合，国内外AI工具集导航大全。',
         link: 'https://ai-bot.cn/'
+      },
+      {
+        icon: './icons/aichaodian.png',
+        title: '潮点AI工具导航',
+        desc: '专业AI人工智能网站导航。',
+        link: 'https://aichaodian.com/'
+      },
+      {
+        icon: './icons/ainav.png',
+        title: 'AINav.net',
+        desc: '一个属于AI人的导航网站。',
+        link: 'https://www.ainav.net/'
       },
     ]
   }
