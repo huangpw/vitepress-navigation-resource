@@ -470,7 +470,7 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '机械类',
+    title: '机械行业',
     items: [
       {
         icon: './icons/tie-loathing.ico',
@@ -557,6 +557,18 @@ export const NAV_DATA = [
         title: 'ChartCube图表魔方',
         desc: '一款完全免费且易于上手的在线图表工具。',
         link: 'https://chartcube.alipay.com/',
+        badge: '官网',
+      },
+    ]
+  },
+  {
+    title: '词云设计',
+    items: [
+      {
+        icon: './icons/weiciyun.svg',
+        title: '微词云',
+        desc: '一款实用性强、简单的在线文字云、在线词云生成器，相对于其他产品，我们的产品功能更加强大，不仅支持在线分词，还支持词频统计、词频分析。',
+        link: 'https://www.weiciyun.com/',
         badge: '官网',
       },
     ]

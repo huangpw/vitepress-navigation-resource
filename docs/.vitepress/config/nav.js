@@ -13,7 +13,14 @@ module.exports = [
     ]
   },
   { text: 'AI', link: '/ai/' },
-  { text: '剪辑', link: '/montage/' },
+  {
+    text: '剪辑',
+    items: [
+      { text: '视频剪辑', link: '/montage/' },
+      { text: '音乐剪辑', link: '/montage/music/' },
+    ]
+
+  },
   { text: '办公', link: '/office/' },
   { text: '设计', link: '/design/' },
   { text: '娱乐', link: '/recreation/' },

@@ -33,7 +33,7 @@ export const NAV_DATA = [
       {
         icon: "./icons/pixabay.png",
         title: "Pixabay",
-        desc: "一个充满活力的创意社区，分享免费的图片和视频。",
+        desc: "一个正版高清无版权素材下载网站，拥有图片、视频、音乐、插画、音效等多种类型。",
         link: "https://pixabay.com/zh/",
         badge: "官网",
       },

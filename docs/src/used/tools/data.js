@@ -30,13 +30,6 @@ export const NAV_DATA = [
         link: 'https://cowtransfer.com/',
         badge: '官网',
       },
-      // {
-      //   icon: './icons/cowtransfer.png',
-      //   title: '小鹿快传',
-      //   desc: '全国乃至全世界最快的文件传输工具，上传下载不限速、支持2G+文件传输、支持在线预览、在线传输历史管理。',
-      //   link: 'https://cowtransfer.com/',
-      //   badge: '官网',
-      // },
     ],
   },
   {

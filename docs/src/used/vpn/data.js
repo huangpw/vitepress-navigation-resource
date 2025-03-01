@@ -1,6 +1,6 @@
 export const NAV_DATA = [
   {
-    title: '国外平台',
+    title: '魔法VPN',
     items: [
       {
         icon: './icons/OKZTWO.ico',

@@ -43,9 +43,16 @@ export const NAV_DATA = [
     title: "配色",
     items: [
       {
+        icon: "./icons/rgbcolor.png",
+        title: "RGB颜色表",
+        desc: "RGB颜色表。",
+        link: "http://www.yini.org/liuyan/rgbcolor.htm",
+        badge: "官网",
+      },
+      {
         icon: "./icons/uidesigndaily.svg",
         title: "UI Design Daily",
-        desc: "UI Design Daily是一个专注于UI设计的在线社区，提供了大量优秀的设计素材和模板，以及许多实用的设计工具和资源。",
+        desc: "一个专注于UI设计的在线社区，提供了大量优秀的设计素材和模板，以及许多实用的设计工具和资源。",
         link: "https://www.uidesigndaily.com/",
         badge: "官网",
       },
@@ -111,6 +118,13 @@ export const NAV_DATA = [
         desc: "深度学习颜色生成器。",
         link: "https://colors.eva.design/",
         badge: "官网",
+      },
+      {
+        icon: "./icons/color1001.png",
+        title: "前端系统配色方案",
+        desc: "前端设计中经常用到的比较好看的一些颜色。",
+        link: "https://blog.csdn.net/SugaryoTT/article/details/54177366",
+        badge: "方案",
       },
     ],
   },
