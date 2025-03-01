@@ -251,7 +251,7 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '做图抠图',
+    title: '图片抠图',
     items: [
       {
         icon: './icons/remove.png',
@@ -321,6 +321,13 @@ export const NAV_DATA = [
         title: 'WorldVectorLogo',
         desc: '一个专门提供各类品牌logo的网站。',
         link: 'https://worldvectorlogo.com/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/bigjpg.png',
+        title: 'BigJPG',
+        desc: 'AI人工智能图片放大，实现图片的无损放大，支持最大16倍放大。',
+        link: 'https://bigjpg.com/',
         badge: '官网',
       },
     ],
@@ -401,13 +408,62 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '图片处理',
+    title: '背景素材',
     items: [
       {
-        icon: './icons/bigjpg.png',
-        title: 'BigJPG',
-        desc: 'AI人工智能图片放大，实现图片的无损放大，支持最大16倍放大。',
-        link: 'https://bigjpg.com/',
+        icon: './icons/logosc.jpg',
+        title: 'Huemint',
+        desc: '一款基于Web的色彩工具，它可以帮助设计师和开发人员快速创建和管理色彩方案。',
+        link: 'https://huemint.com/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/meshgradient.webp',
+        title: 'Meshgradient',
+        desc: '一款基于Web的渐变色生成工具，它可以帮助设计师和开发人员快速创建各种各样的渐变色效果。',
+        link: 'https://meshgradient.in/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/svgshapes.svg',
+        title: 'Svgshapes',
+        desc: '一个在线工具，用于生成SVG图形。它提供了各种形状和样式选项，可以通过简单的操作生成自定义的SVG图形。',
+        link: 'https://www.svgshapes.in/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/svgwave.png',
+        title: 'Svgwave',
+        desc: '可以生成多个渐变波，生成实时动画。',
+        link: 'https://svgwave.in/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/tinter-uxie.ico',
+        title: 'Tinter',
+        desc: '一个在线工具，用于生成自定义的波浪形SVG图形。',
+        link: 'https://tinter.uxie.io/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/bgjar.svg',
+        title: 'bgjar',
+        desc: '一个在线的背景生成器工具。',
+        link: 'https://bgjar.com/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/app-haikei.png',
+        title: 'haikei design',
+        desc: '一个在线的背景生成器工具，它提供了各种背景样式选项，可以通过简单的操作生成自定义的背景。',
+        link: 'https://app.haikei.app/',
+        badge: '官网',
+      },
+      {
+        icon: './icons/coolbackgrounds.svg',
+        title: 'coolbackgrounds',
+        desc: '一个在线的背景生成器工具，它提供了各种背景样式选项，可以通过简单的操作生成自定义的背景。',
+        link: 'http://coolbackgrounds.io/',
         badge: '官网',
       },
     ]

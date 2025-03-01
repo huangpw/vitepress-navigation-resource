@@ -57,7 +57,7 @@ export const NAV_DATA = [
       {
         icon: './icons/svgwave.png',
         title: 'Multiple Animated Waves',
-        desc: '可以生成多个渐变波，但主要特点是还能生成实时动画。',
+        desc: '可以生成多个渐变波，生成实时动画。',
         link: 'https://svgwave.in/',
         badge: '官网'
       },

@@ -1,6 +1,6 @@
 export const NAV_DATA = [
   {
-    title: '国内/AI创作',
+    title: 'AI创作/国内',
     items: [
       {
         icon: './icons/typemovie.png',
@@ -40,7 +40,7 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '国内/视频素材',
+    title: '视频素材/国内',
     items: [
       {
         icon: './icons/ygp6huo.png',
@@ -87,7 +87,7 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '国外/视频素材',
+    title: '视频素材/国外',
     items: [
       {
         icon: './icons/mixkit.png',
@@ -155,7 +155,7 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '国内/动漫素材',
+    title: '动漫素材/国内',
     items: [
       {
         icon: './icons/comicat.svg',
@@ -174,7 +174,7 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '国内/视频下载',
+    title: '视频下载/国内',
     items: [
       {
         icon: './icons/online-downloader.png',
@@ -207,7 +207,7 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '国内/手机软件',
+    title: '手机软件/国内',
     items: [
       {
         icon: './icons/capcut.png',
@@ -359,7 +359,7 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '国内/电脑软件',
+    title: '电脑软件/国内',
     items: [
       {
         icon: './icons/capcut.png',
@@ -518,7 +518,7 @@ export const NAV_DATA = [
     ],
   },
   {
-    title: '国内/格式工厂',
+    title: '格式工厂/国内',
     items: [
       {
         icon: './icons/pcgeshi.gif',
@@ -544,7 +544,7 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '国内/压缩视频',
+    title: '压缩视频/国内',
     items: [
       {
         icon: './icons/maruko-appinn.png',
@@ -577,7 +577,7 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '国内/字幕工具',
+    title: '字幕工具/国内',
     items: [
       {
         icon: './icons/arctime.ico',
@@ -596,7 +596,7 @@ export const NAV_DATA = [
     ]
   },
   {
-    title: '国内/录屏软件',
+    title: '录屏软件/国内',
     items: [
       {
         icon: './icons/ocam.avif',
