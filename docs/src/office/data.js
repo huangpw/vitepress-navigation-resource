@@ -328,13 +328,13 @@ export const NAV_DATA = [
         link: 'https://www.polebrief.com/',
         badge: '官网',
       },
-      // {
-      //   icon: './icons/polebrief.svg',
-      //   title: '极简Polebrief',
-      //   desc: '简约、又简单的简历制作网站。',
-      //   link: 'https://www.polebrief.com/index',
-      //   badge: '官网',
-      // },
+      {
+        icon: './icons/online-tukuppt.png',
+        title: '熊猫云简历',
+        desc: '高效在线编辑让你的简历脱颖而出。',
+        link: 'https://online.tukuppt.com/',
+        badge: '官网',
+      },
     ]
   },
   {
