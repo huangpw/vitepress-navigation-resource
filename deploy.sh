@@ -7,7 +7,7 @@ set -e
 npm run docs:build
 
 # 进入生成的文件夹
-cd docs/.vitepress/dist
+cd docs/dist
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
@@ -27,4 +27,4 @@ git push -f https://github.com/huangpw/vitepress-navigation-resource.git master:
 cd -
 
 # 删除打包后的文件
-rm -rf docs/.vitepress/dist
+# rm -rf docs/dist

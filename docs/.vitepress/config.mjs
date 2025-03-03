@@ -9,6 +9,7 @@ import socialLinks from './config/socialLinks';
 console.log(process.env.APP_BASE_PATH, 'process.env.APP_BASE_PATH')
 
 export default defineConfig({
+  base: "/vitepress-navigation-resource/",
   title: "导航-资源库", // 标题
   description: "收集一些日常使用的网站资源和网站社区", // 描述
   lang: "zh-CN", // 设置语言

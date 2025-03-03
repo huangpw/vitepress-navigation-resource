@@ -293,7 +293,7 @@ export const NAV_DATA = [
     title: "在线图床",
     items: [
       {
-        icon: './icons/urnotzane.png',
+        icon: '/icons/urnotzane.png',
         title: 'Urnotzane',
         desc: '随意浏览, 发现我所有的图片和相册共享。',
         link: 'https://gallary.ithen.cn/',
