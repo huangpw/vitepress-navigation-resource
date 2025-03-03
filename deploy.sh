@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+# 删除打包后的文件
+rm -rf docs/dist
+
 # 确保脚本抛出遇到的错误
 set -e
 
@@ -27,4 +30,4 @@ git push -f https://github.com/huangpw/vitepress-navigation-resource.git master:
 cd -
 
 # 删除打包后的文件
-# rm -rf docs/dist
+rm -rf docs/dist

@@ -73,7 +73,7 @@ export const NAV_DATA = [
         badge: '网站'
       },
       {
-        icon: './icons/fancy-border-radius.png',
+        icon: '/icons/fancy-border-radius.png',
         title: 'Fancy Border Shape Generator',
         desc: '一款在线编辑border-radius的可视化工具。通过操纵border-radius生成各种形状，并且可以在项目的任何地方使用。你还可以更改形状的大小，以便根据项目偏好检查其外观。',
         link: 'https://9elements.github.io/fancy-border-radius/',

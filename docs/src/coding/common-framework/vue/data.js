@@ -24,7 +24,7 @@ export const NAV_DATA = [
                 badge: '官网'
             },
             {
-                icon: './icons/nuxt.png',
+                icon: '/icons/nuxt.png',
                 title: 'Nuxt官网',
                 desc: 'Nuxt是一个基于Vue的框架，提供了服务端渲染（SSR）、静态生成（SSG）和PWA等功能，非常适合构建高性能的Web应用。',
                 link: 'https://nuxt.com/',
@@ -38,7 +38,7 @@ export const NAV_DATA = [
                 badge: '官网'
             },
             {
-                icon: './icons/pnpm.png',
+                icon: '/icons/pnpm.png',
                 title: 'pnpm',
                 desc: '在包管理器的选择上，首选 PNPM，相比于 NPM，它能解决很多问题，例如幽灵依赖、安装速度快、节省空间、天然支持Monorepo。',
                 link: 'https://www.pnpm.cn/',
@@ -52,7 +52,7 @@ export const NAV_DATA = [
                 badge: '官网'
             },
             {
-                icon: './icons/vuex.png',
+                icon: '/icons/vuex.png',
                 title: 'Vuex',
                 desc: 'Pinia是Vue3的官方状态管理库，它提供了一个直观、类型安全的状态管理方式，并且易于与TypeScript集成。',
                 link: 'https://vuex.vuejs.org/zh/',
@@ -101,14 +101,14 @@ export const NAV_DATA = [
                 badge: '官网'
             },
             {
-                icon: './icons/vue-loader.png',
+                icon: '/icons/vue-loader.png',
                 title: 'Vue Loader',
                 desc: 'vue-loader是webpack的一个loader，允许你用单文件组件(sfc)的格式创建Vue组件并打包。',
                 link: 'https://vue-loader.vuejs.org/zh/',
                 badge: '官网'
             },
             {
-                icon: './icons/axios.png',
+                icon: '/icons/axios.png',
                 title: 'Axios',
                 desc: '易用、简洁且高效的http库。Axios是一个基于promise的网络请求库，可以用于浏览器和node.js。',
                 link: 'https://www.axios-http.cn/',
@@ -122,7 +122,7 @@ export const NAV_DATA = [
                 badge: 'HTTP'
             },
             {
-                icon: './icons/fetch.png',
+                icon: '/icons/fetch.png',
                 title: 'Fetch API',
                 desc: 'Fetch API是现代浏览器中内置的接口，用于执行网络请求。',
                 link: 'https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API',
@@ -134,7 +134,7 @@ export const NAV_DATA = [
         title: 'Vue生态',
         items: [
             {
-                icon: './icons/typescript.png',
+                icon: '/icons/typescript.png',
                 title: 'TypeScript',
                 desc: 'Vue3完全支持TypeScript，使得开发者可以在项目中享受到TypeScript提供的类型安全和开发效率。',
                 link: 'https://www.typescriptlang.org/',
@@ -148,7 +148,7 @@ export const NAV_DATA = [
                 badge: 'Pinia'
             },
             {
-                icon: './icons/eslint.png',
+                icon: '/icons/eslint.png',
                 title: 'ESLint',
                 desc: '查找和修复JavaScript代码中的问题。',
                 link: 'https://eslint.nodejs.cn/',
@@ -176,28 +176,28 @@ export const NAV_DATA = [
                 badge: '插件'
             },
             {
-                icon: './icons/vuex.png',
+                icon: '/icons/vuex.png',
                 title: 'vuex-persist',
                 desc: '支持Typescript的Vuex插件，它能够将应用程序的状态保存到持久存储中，例如Cookies或localStorage。',
                 link: 'https://championswimmer.in/vuex-persist/',
                 badge: 'Pinia'
             },
             {
-                icon: './icons/vuex.png',
+                icon: '/icons/vuex.png',
                 title: 'vuex-persistedstate',
                 desc: '在页面重新加载之间保持并重载您的Vuex状态。',
                 link: 'https://github.com/robinvdvleuten/vuex-persistedstate',
                 badge: 'Pinia'
             },
             {
-                icon: './icons/unocss.svg',
+                icon: '/icons/unocss.svg',
                 title: 'UnoCSS',
                 desc: 'UnoCSS是一个原子化CSS引擎，可以自动生成原子CSS类，减少CSS的冗余并提高开发效率。',
                 link: 'https://unocss.dev/',
                 badge: 'CSS'
             },
             {
-                icon: './icons/tailwindcss.png',
+                icon: '/icons/tailwindcss.png',
                 title: 'TailwindCSS',
                 desc: '只需书写HTML代码，无需书写CSS，即可快速构建美观的网站。',
                 link: 'https://www.tailwindcss.cn/',
@@ -218,7 +218,7 @@ export const NAV_DATA = [
                 badge: '语法糖'
             },
             {
-                icon: './icons/webpack.png',
+                icon: '/icons/webpack.png',
                 title: 'Webpack',
                 desc: 'Webpack是一个用于现代JavaScript应用程序的静态模块打包工具。',
                 link: 'https://www.webpackjs.com/',
@@ -253,14 +253,14 @@ export const NAV_DATA = [
                 badge: '资源'
             },
             {
-                icon: './icons/eslint.png',
+                icon: '/icons/eslint.png',
                 title: 'eslint-plugin-vue',
                 desc: 'Vue官方的ESLint插件。',
                 link: 'https://eslint.vuejs.org/',
                 badge: '插件'
             },
             {
-                icon: './icons/eslint.png',
+                icon: '/icons/eslint.png',
                 title: 'vue-eslint-parser',
                 desc: '自定义ESLint解析.vue单文件的解析器。',
                 link: 'https://github.com/vuejs/vue-eslint-parser',
@@ -277,7 +277,7 @@ export const NAV_DATA = [
                 link: 'https://vueuse.nodejs.cn/',
                 badge: '插件'
             },{
-                icon: './icons/vuehooksplus.png',
+                icon: '/icons/vuehooksplus.png',
                 title: 'VueHooks Plus',
                 desc: '一个为Vue3设计的高性能、简易钩子库。',
                 link: 'https://inhiblabcore.github.io/docs/hooks/',
@@ -289,7 +289,7 @@ export const NAV_DATA = [
                 link: 'https://dewfall123.github.io/ahooks-vue/zh/',
                 badge: '插件'
             },{
-                icon: './icons/v3hooks.avif',
+                icon: '/icons/v3hooks.avif',
                 title: 'V3Hooks',
                 desc: '针对Vue3的实用Hooks集合，V3Hooks也可以说是ahooks的Vue实现，绝大部分Api是保持一致的。',
                 link: 'https://yanzhandong868.gitbook.io/v3hooks',
@@ -301,7 +301,7 @@ export const NAV_DATA = [
                 link: 'https://tarektouati.github.io/vue-use-web/',
                 badge: '插件'
             },{
-                icon: './icons/vue-demi.png',
+                icon: '/icons/vue-demi.png',
                 title: 'Vue Demi Hooks',
                 desc: 'Vue Demi是一个正在开发的实用程序允许你为Vue 2和3编写通用Vue库。',
                 link: 'https://github.com/vueuse/vue-demi/',
@@ -313,7 +313,7 @@ export const NAV_DATA = [
                 link: 'https://pikax.me/vue-composable/',
                 badge: '插件'
             },{
-                icon: './icons/motion.svg',
+                icon: '/icons/motion.svg',
                 title: '@vueuse/motion',
                 desc: 'Vue Composables 让你的组件动起来。',
                 link: 'https://motion.vueuse.org/',
@@ -342,21 +342,21 @@ export const NAV_DATA = [
                 link: 'https://github.com/robcresswell/vue-material-design-icons',
                 badge: 'Vue'
             },{
-                icon: './icons/fontawesome.svg',
+                icon: '/icons/fontawesome.svg',
                 title: 'Font Awesome',
                 desc: 'Font Awesome是互联网的图标库和工具包，被数百万设计师，开发人员和内容创作者使用。',
                 link: 'https://fontawesome.com/',
                 badge: 'All'
             },
             {
-                icon: './icons/remixicon.ico',
+                icon: '/icons/remixicon.ico',
                 title: 'Remix Icon',
                 desc: '所有的图标都是免费的个人和商业用途。',
                 link: 'https://remixicon.cn/',
                 badge: 'All'
             },
             {
-                icon: './icons/lordicon.svg',
+                icon: '/icons/lordicon.svg',
                 title: 'Lordicon',
                 desc: 'Lordicon是一个不断增长的图书馆，充满了精心制作的，高质量的静态和动画图标，你不会在其他任何地方找到。',
                 link: 'https://lordicon.com/',
@@ -377,63 +377,63 @@ export const NAV_DATA = [
                 badge: 'All'
             },
             {
-                icon: './icons/boxicons.ico',
+                icon: '/icons/boxicons.ico',
                 title: 'Boxicons',
                 desc: '高质量的网站图标，为设计师和开发人员精心制作的简单开源图标。',
                 link: 'https://boxicons.com/',
                 badge: 'All'
             },
             {
-                icon: './icons/tabler.ico',
+                icon: '/icons/tabler.ico',
                 title: 'Tabler Icons',
                 desc: '免费和开源的图标，视觉上一致，简单美观。',
                 link: 'https://tabler.io/icons',
                 badge: 'All'
             },
             {
-                icon: './icons/iconfont.png',
+                icon: '/icons/iconfont.png',
                 title: 'Iconfont',
                 desc: '阿里巴巴矢量图标库。',
                 link: 'https://www.iconfont.cn/',
                 badge: 'All'
             },
             {
-                icon: './icons/iconpark.svg',
+                icon: '/icons/iconpark.svg',
                 title: 'IconPark',
                 desc: '字节跳动官方图标库。',
                 link: 'https://iconpark.oceanengine.com/home',
                 badge: 'All'
             },
             {
-                icon: './icons/easy-icon.png',
+                icon: '/icons/easy-icon.png',
                 title: 'Easy-ICON',
                 desc: '高颜值、简单易用的web字体图标库。',
                 link: 'https://gitee.com/sz861128/easy-icon',
                 badge: 'All'
             },
             {
-                icon: './icons/svgl.svg',
+                icon: '/icons/svgl.svg',
                 title: 'SVGL',
                 desc: '免费开源精美的SVG图标徽标库。',
                 link: 'https://svgl.app/',
                 badge: 'All'
             },
             {
-                icon: './icons/favicon.png',
+                icon: '/icons/favicon.png',
                 title: 'Favicon.io',
                 desc: '唯一的图标生成器，你需要为您的下一个项目。从文本、图像或数百种表情符号中快速生成您的favicon。',
                 link: 'https://favicon.io/',
                 badge: 'All'
             },
             {
-                icon: './icons/ionicons.png',
+                icon: '/icons/ionicons.png',
                 title: 'IonIcons',
                 desc: '高级设计的图标，可用于Web、iOS、Android和桌面应用程序。支持SVG。',
                 link: 'https://ionic.io/ionicons',
                 badge: 'All'
             },
             {
-                icon: './icons/iconify.png',
+                icon: '/icons/iconify.png',
                 title: 'Iconify',
                 desc: '一个开源的图标集合和图标工具。',
                 link: 'https://iconify.design/',
@@ -447,14 +447,14 @@ export const NAV_DATA = [
                 badge: 'All'
             },
             {
-                icon: './icons/unicornicons.svg',
+                icon: '/icons/unicornicons.svg',
                 title: 'Animated icons',
                 desc: '自带动画的Icon图标库。',
                 link: 'https://unicornicons.com/icons',
                 badge: 'All'
             },
             {
-                icon: './icons/simpleicons.svg',
+                icon: '/icons/simpleicons.svg',
                 title: 'Simple Icons',
                 desc: '包含2457种流行品牌的免费SVG图标库。',
                 link: 'https://simpleicons.org/',
@@ -466,55 +466,55 @@ export const NAV_DATA = [
     {
         title: '插画库',
         items: [{
-            icon: './icons/illustrations.svg',
+            icon: '/icons/illustrations.svg',
             title: 'unDraw Illustrations',
             desc: '免费插画。',
             link: 'https://undraw.co/illustrations',
             badge: 'All'
         }, {
-            icon: './icons/useAnimations.png',
+            icon: '/icons/useAnimations.png',
             title: 'useAnimations',
             desc: '免费动画图标。',
             link: 'https://useanimations.com/',
             badge: 'All'
         }, {
-            icon: './icons/themeisle.png',
+            icon: '/icons/themeisle.png',
             title: 'Free illustrations',
             desc: '免费插画。',
             link: 'https://themeisle.com/illustrations/',
             badge: 'All'
         }, {
-            icon: './icons/blush.svg',
+            icon: '/icons/blush.svg',
             title: 'Blush',
             desc: '运用全球艺术家的系列轻松创建和定制精美的插画。',
             link: 'https://blush.design/zh-CN',
             badge: 'All'
         }, {
-            icon: './icons/flowlava.svg',
+            icon: '/icons/flowlava.svg',
             title: 'Flow Lava',
             desc: '创建一个有吸引力的和独特的项目与未来的字符易于使用的构造器。',
             link: 'https://flowlava.club/',
             badge: 'All'
         }, {
-            icon: './icons/humaaans.webp',
+            icon: '/icons/humaaans.webp',
             title: 'Humaaans',
             desc: '一个免费可商用的人物场景插画素材神器，超级适合用在UI设计中，整套素材中含有不同的任务姿势、衣服、色彩等。支持Sketch、Figma等格式。',
             link: 'https://www.humaaans.com/',
             badge: 'All'
         }, {
-            icon: './icons/freeillustrations.svg',
+            icon: '/icons/freeillustrations.svg',
             title: 'Freeillustrations',
             desc: '免费插图。',
             link: 'https://freeillustrations.xyz/',
             badge: 'All'
         }, {
-            icon: './icons/absurd.png',
+            icon: '/icons/absurd.png',
             title: 'absurd illustrations',
             desc: '一套免费的超现实主义风格插画素材合集，风格独特，寓意暗藏，非常有特色。如果你想来点和别人不一样的东西，可以试试这套插画素材。',
             link: 'https://absurd.design/',
             badge: 'All'
         }, {
-            icon: './icons/outlane.svg',
+            icon: '/icons/outlane.svg',
             title: 'Outlane',
             desc: '网站会定期更新各种不同类型的免费插画素材，包括流行的《权游》和《复联4》等主题的插画都有。',
             link: 'https://outlane.co/topics/freebie/',

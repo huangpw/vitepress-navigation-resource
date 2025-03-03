@@ -169,7 +169,7 @@ export const NAV_DATA = [
             label: ['HTML', 'CSS']
         },
         {
-            icon: './icons/css.png',
+            icon: '/icons/css.png',
             title: '零代码',
             desc: '精美CSS样式库。',
             link: 'https://www.lingdaima.com/css/#/',
@@ -253,7 +253,7 @@ export const NAV_DATA = [
                 label: ['HTML', 'CSS']
             },
             {
-                icon: './icons/three-dots.png',
+                icon: '/icons/three-dots.png',
                 title: 'Three Dots',
                 desc: '一组只使用单个元素的CSS加载动画。',
                 link: 'https://nzbin.github.io/three-dots/',

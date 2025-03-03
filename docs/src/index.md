@@ -50,14 +50,12 @@ features:
 ---
 
 <script setup>
-// import MFriends from './components/MFriends.vue'
-// import Cards from './components/Cards.vue'
 import { FRIEND_DATA } from './home/friend-data';
 console.log(FRIEND_DATA)
 </script>
 
 <ClientOnly>
-  <Cards  v-for="{ title, items } in FRIEND_DATA"
+  <MNavLinks  v-for="{ title, items } in FRIEND_DATA"
       :title="title"
       :items="items" />
 </ClientOnly>
