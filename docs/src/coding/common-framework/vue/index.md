@@ -15,6 +15,5 @@ import { NAV_DATA } from './data'
 
 <br />
 
-::: tip
-该导航由 [huangpw](https://github.com/vuejs/vitepress) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/vuejs/vitepress>
+::: tip该导航由 [huangpw](https://github.com/huangpw/) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/huangpw/vitepress-navigation-resource>
 :::
