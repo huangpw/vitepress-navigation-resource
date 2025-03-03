@@ -19,34 +19,34 @@ hero:
       theme: alt
 features:
   - icon: 📖
-    title: 前端物语
-    details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
-    link: https://notes.fe-mm.com/fe/javascript/types
-    linkText: 前端常用知识
+    title: 编程物语
+    details: 整理前端常用知识网站，学习各种编程语言。
+    link: http://localhost:5173/vitepress-navigation-resource/coding/common-framework/
+    linkText: 前端网站
   - icon: 📘
-    title: 源码阅读
-    details: 了解各种库的实现原理<br />学习其中的小技巧和冷知识
-    link: https://notes.fe-mm.com/analysis/utils/only-allow
-    linkText: 源码阅读
+    title: 常用AI
+    details: 收集一些常用的AI工具，提高工作效率。
+    link: http://localhost:5173/vitepress-navigation-resource/ai/
+    linkText: AI网站
   - icon: 💡
-    title: Workflow
-    details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
-    link: https://notes.fe-mm.com/workflow/utils/library
-    linkText: 常用工具库
+    title: 辅助办公
+    details: 收集一些常用的办公软件，提高工作效率。
+    link: http://localhost:5173/vitepress-navigation-resource/office/
+    linkText: 办公资源
   - icon: 🧰
-    title: 提效工具
-    details: 工欲善其事，必先利其器<br />记录开发和日常使用中所用到的软件、插件、扩展等
-    link: https://notes.fe-mm.com/efficiency/online-tools
-    linkText: 提效工具
+    title: 设计灵感
+    details: 收集一些常用的设计网站，提高设计水平。
+    link: http://localhost:5173/vitepress-navigation-resource/design/
+    linkText: 学习网站
   - icon: 🐞
-    title: 踩坑记录
-    details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
-    link: https://notes.fe-mm.com/pit/npm
-    linkText: 踩坑记录
+    title: 科普娱乐
+    details: 收集一些常用的科普娱乐网站，丰富业余生活。
+    link: http://localhost:5173/vitepress-navigation-resource/popular-science/
+    linkText: 科普网站
   - icon: 💯
     title: 吾志所向，一往无前。
-    details: '<small class="bottom-small">一个想躺平的小开发</small>'
-    link: https://notes.fe-mm.com/mao
+    details: '<small class="bottom-small">一个小小的全栈开发</small>'
+    link: https://github.com/huangpw
 ---
 
 <script setup>

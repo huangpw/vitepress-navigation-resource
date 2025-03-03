@@ -3,47 +3,53 @@ export const FRIEND_DATA = [
     title: '网站链接',
     items: [
       {
-        title: "肯了个德的博客",
-        desc: "专注于分享没用的知识，你乐意看就多看看，保证你一看一个不吱声，你乐意看就多看看，保证你一看一个不吱声",
-        link: "https://leelaa.cn",
-        icon: "https://leelaa.cn/logo.webp",
-        label: ['哈哈', '嘻嘻', '测试', '哈哈', '嘻嘻', '测试']
+        icon: '/icons/html.png',
+        title: '前端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
       },
       {
-        title: "粥里有勺糖",
-        desc: "你的指尖，拥有改变世界的力量",
-        link: "https://sugarat.top",
-        icon: "https://sugarat.top/logo.png",
-        label: ['哈哈', '嘻嘻', '测试']
+        icon: '/icons/html.png',
+        title: '后端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
       },
       {
-        title: "骤雨重山",
-        desc: "运气是计划之外的东西",
-        link: "https://www.vvhan.com",
-        icon: "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
-        label: ['哈哈', '嘻嘻', '测试']
+        icon: '/icons/html.png',
+        title: '移动端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
       },
       {
-        title: "肯了个德的博客",
-        desc: "专注于分享没用的知识，你乐意看就多看看，保证你一看一个不吱声",
-        link: "https://leelaa.cn",
-        icon: "https://leelaa.cn/logo.webp",
-        label: ['哈哈', '嘻嘻', '测试']
+        icon: '/icons/html.png',
+        title: '数据库端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
       },
       {
-        title: "粥里有勺糖",
-        desc: "你的指尖，拥有改变世界的力量",
-        link: "https://sugarat.top",
-        icon: "https://sugarat.top/logo.png",
-        label: ['哈哈', '嘻嘻', '测试']
+        icon: '/icons/html.png',
+        title: '服务端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
       },
       {
-        title: "骤雨重山",
-        desc: "运气是计划之外的东西",
-        link: "https://www.vvhan.com",
-        icon: "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
-        label: ['哈哈', '嘻嘻', '测试']
-      }
+        icon: '/icons/html.png',
+        title: '软件端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
+      },
+      {
+        icon: '/icons/html.png',
+        title: '笔记端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
+      },
+      {
+        icon: '/icons/html.png',
+        title: '其他端-资源库',
+        desc: '前端Vue学习网站，收录web端&移动端&小程序端等官网，项目开箱即用，实战笔记。',
+        link: 'https://huangpw.github.io/vitepress-frontend-resource/'
+      },
     ]
   }
 ]
