@@ -1,6 +1,6 @@
 export const NAV_DATA = [
   {
-    title: 'Icon插图库',
+    title: '插图库',
     items: [
       {
         icon: './icons/streamlinehq.png',

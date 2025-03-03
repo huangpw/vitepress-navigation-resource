@@ -1,6 +1,6 @@
 export const NAV_DATA = [
   {
-    title: 'Icon图标库',
+    title: '图标库',
     items: [
       {
         icon: './icons/weather-icons.png',

@@ -9,7 +9,7 @@ import { NAV_DATA } from './data'
 </script>
 <!-- <style src="./index.scss"></style> -->
 
-# Icon插图库
+# 插图库
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 

@@ -6,7 +6,9 @@
     "start": "npm run docs:dev",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "deploy": "bash deploy.sh",
+    "master": "bash master.sh"
   },
   "keywords": [],
   "author": "",
